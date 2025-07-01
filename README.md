@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Salvatore Marchese (but you can call me Salva)</h1>
 
-<!--
-**Salva985/Salva985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">💻 Full-Stack Web Developer (MERN) | Passionate about UX, SEO & building meaningful clean digital experiences<br>
+📍 Based in Barcelona | Open to collaboration
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+💼 Former hospitality & sales professional now building a career in web development.<br>
+💻 Focused on frontend and full-stack programming with JavaScript, React, and Node.js.<br>
+📈 Passionate about SEO, digital marketing, and user-centered development.<br>
+🧠 Currently learning TypeScript and sharpening modern dev practices.<br>
+🌍 Based in Barcelona — open to remote or collaborative projects!
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔎 **[Dive & Discover](https://github.com/salva985/dive-and-discover)**  
+  Dive center and marine life search app. Full-stack application using React, Node.js, and MongoDB.
+
+- 🌐 **[Personal Portfolio Website](https://salva985.github.io/portfolio)**  
+  Responsive website built with HTML, CSS, and JavaScript.
+
+---
+
+## 🧪 Practice Projects
+
+- 🎵 **Spotify Clone (HTML & CSS)**  
+  🎧 Layout replica of Spotify’s landing page using semantic HTML and modern CSS.  
+  📂 [GitHub Repo](https://github.com/Salva985/lab-css-spotify-clone)
+
+- 🎬 **Greatest Movies (JavaScript Arrays & Methods)**  
+  🍿 Practice using `map`, `filter`, `reduce`, and other JS methods to analyze a movie dataset.  
+  📂 [GitHub Repo](https://github.com/Salva985/lab-javascript-greatest-movies)
+
+- 🍳 **Recipe Page Clone (HTML & CSS)**  
+  📋 One-page recipe layout using structured HTML and responsive CSS.  
+  📂 [GitHub Repo](https://github.com/Salva985/lab-css-recipes-clone)
+
+- 🛒 **Ironhack Cart (JavaScript & DOM Manipulation)**  
+  🧮 Shopping cart app where you dynamically calculate totals and remove items using the DOM.  
+  📂 [GitHub Repo](https://github.com/Salva985/lab-dom-ironhack-cart)
+
+---
+
+### 🚀 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-4285F4?style=flat&logo=google&logoColor=white)
+
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: smarchese985@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/salvatore-marchese-5736b786/)  
+- 🌐 [My Website](https://salva985.github.io/portfolio)
+
+---
+
+> “The best way to predict the future is to create it.” – Abraham Lincoln
+
