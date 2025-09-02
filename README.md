@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Salvatore Marchese (but you can call me Salva)</h1>
 
-<p align="center">💻 Full-Stack Web Developer (MERN) | Passionate about UX, SEO & building meaningful clean digital experiences<br>
+<p align="center">💻 Full-Stack Web Developer (MERN) | Passionate about UX/UI, SEO & building meaningful clean digital experiences<br>
 📍 Based in Barcelona | Open to collaboration
 </p>
 
