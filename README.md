@@ -29,7 +29,7 @@
   Dive center and marine life search app. Full-stack application using React, Node.js, and MongoDB.
 
 - 🌐 **[Personal Portfolio Website](https://salva985.github.io/portfolio)**  
-  Responsive website built with HTML, CSS, and JavaScript.
+  Responsive website built with HTML, CSS/TailwindCSS, and JavaScript.
 
 ---
 
