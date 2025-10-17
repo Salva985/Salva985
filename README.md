@@ -23,7 +23,7 @@
 - 🗺️ **[TripApp](https://github.com/Salva985/TRIP-frontend)**      
   Travel Routes & Itinerary Planner — full-stack project using React, TailwindCSS, and Spring Boot.
   Features trip creation, destination and activity management, and user-based authentication.
-  🚧 Currently a work in progress — refining backend logic and polishing UI/UX.  
+  Currently a work in progress — refining backend logic and polishing UI/UX.  
 
 - 🔎 **[Dive & Discover](https://github.com/Salva985/project-Dive-and-Discover)**   
   Dive center and marine life search app. Full-stack application using React, Node.js, and MongoDB.
