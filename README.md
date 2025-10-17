@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔎 **[Dive & Discover]((https://github.com/Salva985/project-Dive-and-Discover))**  
+- 🔎 **[Dive & Discover](https://github.com/Salva985/project-Dive-and-Discover)**  
   Dive center and marine life search app. Full-stack application using React, Node.js, and MongoDB.
 
 - 🌐 **[Personal Portfolio Website](https://salva985.github.io/portfolio)**  
