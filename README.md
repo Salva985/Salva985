@@ -46,12 +46,12 @@
   🧮 Shopping cart app where you dynamically calculate totals and remove items using the DOM.  
   📂 [GitHub Repo](https://github.com/Salva985/lab-dom-ironhack-cart)
 
-- ⚔️ IronBattle (Java OOP & Inheritance)
-  🧙‍♂️ Turn-based RPG battle simulator built in Java using abstract classes, interfaces, and polymorphism. Features Warrior and Wizard characters with unique attack behaviors, an Attacker interface, and detailed battle logs for each round.
+- ⚔️ **IronBattle (Java OOP & Inheritance)**
+  🧙‍♂️ Turn-based RPG battle simulator built in Java using abstract classes, interfaces, and polymorphism. <br>Features Warrior and Wizard characters with unique attack behaviors, an Attacker interface, and detailed battle logs for each round.<br>
  	📂 [GitHub Repo](https://github.com/IronHack-IronBattle/IronBattle)
 
-- 🐠 Marine Conservation API (Spring Boot & JPA)
-  🌍 RESTful backend managing species, habitats, volunteers, and conservation projects. Built with Spring Boot, JPA, and MySQL, featuring entity relationships, validation, and Swagger documentation for testing endpoints.
+- 🐠 **Marine Conservation API (Spring Boot & JPA)**
+  🌍 RESTful backend managing species, habitats, volunteers, and conservation projects. <br>Built with Spring Boot, JPA, and MySQL, featuring entity relationships, validation, and Swagger documentation for testing endpoints.<br>
   📂 [GitHub Repo](https://github.com/Salva985/MarineConservation)
 
 ---
